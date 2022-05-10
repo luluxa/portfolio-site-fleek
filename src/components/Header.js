@@ -7,9 +7,9 @@ const Header = () => {
             <img src={profile} alt="John Doe" />
 
             <div className='header__content'>
-                <h1>Hi, I'm John Doe</h1>
-                <p>Blockchain Developer</p>
-                <button className='button'>Get In Touch</button>
+                <h1>Hi, I'm Joseph Chelala</h1>
+                <p>Research Analyst and Content Writer</p>
+                <a href="mailto:jc_chelala@yahoo.com.br" className='button'>Get In Touch</a>
             </div>
         </section>
     );
